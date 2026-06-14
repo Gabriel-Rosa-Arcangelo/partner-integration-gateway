@@ -6,6 +6,6 @@ celery==5.4.0
 redis==5.0.8
 dj-database-url==2.3.0
 psycopg[binary]==3.2.4
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 gunicorn==23.0.0
 requests==2.32.3
